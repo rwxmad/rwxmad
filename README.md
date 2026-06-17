@@ -14,6 +14,4 @@
 <div align="center">
   <a href="https://github.com/rwxmad"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwxmad&layout=compact&langs_count=10&theme=calm"/>
   </a>
-  <a href="https://github.com/rwxmad"><img src="https://github-readme-stats.vercel.app/api?username=rwxmad&show_icons=true&theme=calm&count_private=true&card_width=400"/>
-  </a>
 </div>
