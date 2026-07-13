@@ -12,6 +12,10 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/rwxmad"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwxmad&layout=compact&langs_count=10&theme=calm"/>
+  <a href="https://github.com/rwxmad">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/top-langs-dark.svg">
+      <img src="images/top-langs-light.svg" alt="Top languages"/>
+    </picture>
   </a>
 </div>
